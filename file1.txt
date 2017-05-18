@@ -1,0 +1,10 @@
+Sno   Name    Gender
+1     ABC      M
+2     DEF      M
+3     GHI      M
+4     JKL      M
+     		
+
+
+
+
